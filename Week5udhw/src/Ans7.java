@@ -1,4 +1,4 @@
-public class Ans6 {
+public class Ans7 {
     //Write a Java program to print the sum of two numbers.
     //Test Data: 74 + 36
     //Expected Output: 110
