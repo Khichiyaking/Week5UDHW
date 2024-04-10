@@ -9,17 +9,18 @@ public class Week6Qus13 {
 
     public static void main(String[] args) {
         Week6Qus13 a = new Week6Qus13();
-
+    a.n1();
         System.out.println(a.name);
         System.out.println(a.name1);
     }
 
-    public static void main(String[] args) {
-        Week6Qus13 a= new Week6Qus13();
-        a.name();
-        public void name() {
-            System.out.println("Dhaval Patel");
-        }
+    public void n1() {
+        String course = "Divs";
+
+        System.out.println(course);
+        System.out.println(name);
+        System.out.println(name1);
+
     }
 
 }
