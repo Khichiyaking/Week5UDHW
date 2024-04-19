@@ -4,7 +4,8 @@ package StaticVariable;
 public class Qus15 {
     public static void main(String[] args) {
         String txt = "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.";
-        System.out.println(txt.toLowerCase());}
+        System.out.println(txt.toLowerCase());
+    }
 
 
 }
